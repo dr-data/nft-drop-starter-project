@@ -1,0 +1,20 @@
+{
+    "name": "Money Heist",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6Awj9F3WkTopFtVDKmK6BMvB9ScffYSZ9UY1REhmdWLS",
+          "share": 100
+        }
+      ]
+      
+    }
+  }

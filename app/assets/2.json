@@ -1,0 +1,20 @@
+{
+    "name": "Rick & Morty",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6Awj9F3WkTopFtVDKmK6BMvB9ScffYSZ9UY1REhmdWLS",
+          "share": 100
+        }
+      ]
+      
+    }
+  }

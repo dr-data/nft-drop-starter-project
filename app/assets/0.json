@@ -1,0 +1,20 @@
+{
+    "name": "Squid Game",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6Awj9F3WkTopFtVDKmK6BMvB9ScffYSZ9UY1REhmdWLS",
+          "share": 100
+        }
+      ]
+      
+    }
+  }
